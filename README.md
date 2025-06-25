@@ -66,8 +66,8 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/loan-default-prediction.git
-cd loan-default-prediction
+git clone https://github.com/Safalswayame/Loan_Default_Prediction_Logical_Regression.git
+cd Loan_Default_Prediction_Logical_Regression
 Place the dataset (accepted_2007_to_2018Q4.xlsx) in the project folder.
 
 Open and run the Jupyter notebook:
